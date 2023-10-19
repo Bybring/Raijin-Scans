@@ -6,10 +6,6 @@ This repository contains the custom CSS for the Madara theme used by Raijin Scan
 
 ![Raijin Scans Preview](https://github.com/Chikimaro/Raijin-Scans/blob/main/1.png)
 
-The design preview can be viewed at [Raijin Scans](https://raijinscans.fr/). Keep in mind that as we are transitioning to a custom-made website, the preview may undergo changes.
-
-**(If you encounter any access blocks, consider using a France VPN.)**
-
 ## Usage
 
 ### Using a Madara Child Theme
